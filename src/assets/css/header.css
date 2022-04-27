@@ -1,0 +1,28 @@
+.header {
+
+}
+
+.header__logo {
+
+}
+
+.header__searchbar {
+
+}
+
+.header__navbar {
+
+}
+
+.header__navbar-list {
+    list-style-type: none;
+}
+
+.header__navbar-item {
+
+}
+
+.header__navbar-item-link {
+    color: var(--black-color);
+    text-decoration: none;
+}
