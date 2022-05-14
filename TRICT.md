@@ -25,3 +25,6 @@ npm i @fortawesome/react-fontawesome
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {faMagnifyingGlass} from '@fortawesome/free-solid-svg-icons';
 <FontAwesomeIcon icon={faMagnifyingGlass} />
+
+# Bootstrap:
+Bootstrap cũng cần npm i hoặc dùng như css local bằng cách import
